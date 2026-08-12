@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://news-oa9cn6.indcuan.sbs/sitemap.xml
